@@ -1,0 +1,23 @@
+{
+  "name": "wackaverb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memorstx/wackaverb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memorstx/wackaverb/issues"
+  },
+  "homepage": "https://github.com/memorstx/wackaverb#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
